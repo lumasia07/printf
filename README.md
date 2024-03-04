@@ -1,4 +1,4 @@
-![intro](https://miro.medium.com/v2/resize:fit:640/format:webp/0*XdGlovVqnrmMQmNp)
+![intro](https://miro.medium.com/v2/resize:fit:1400/0*bVlvJoLVCrukEDvc.jpeg)
 # Printf
 
 - This is a collaborative project on a custom printf function
