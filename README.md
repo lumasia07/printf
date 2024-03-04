@@ -1,4 +1,4 @@
-![intro](https://linuxhint.com/wp-content/uploads/2022/09/How-to-Use-Printf-in-C-1.png)
+![intro](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*bVlvJoLVCrukEDvc.jpeg)
 # Printf
 
 - This is a collaborative project on a custom printf function
